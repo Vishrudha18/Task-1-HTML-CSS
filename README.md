@@ -49,6 +49,12 @@ Task-1/
 
 ---
 
+## Output
+
+<img width="1919" height="1013" alt="Image" src="https://github.com/user-attachments/assets/ab9fb27f-c038-4e8f-950f-592998b5dde9" />
+
+---
+
 ## 📖 Description
 The webpage contains a navigation bar, structured content with text and image, and a basic form.  
 This project demonstrates the ability to structure a webpage using HTML elements and enhance its appearance using CSS styling.
